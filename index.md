@@ -15,8 +15,52 @@ Own blockchain on the Tendermint engine
 **Golang Backend/Blockchain Developer**
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+_November 2018 — september 2019_
+
+![Dr.Cash](https://dr.cash/assets/images/logos/logo_black.svg)
+
+[Dr.Cash](https://dr.cash/), Moscow
+
+CPA network for working with Nutra vertical all over the world
+
+**Golang Backend Developer**
+
+---
+
+_July 2018 — november 2018_
+
+![Wormsoft](https://wormsoft.ru/_nuxt/img/e4eacfa.svg)
+
+[Wormsoft](https://wormsoft.ru/), Moscow
+
+Development of systems and business applications
+
+**Golang/PHP(yii2) Backend Developer**
+
+---
+
+_October 2017 — june 2018_
+
+![Витбиомед](https://static.tildacdn.com/tild3064-3538-4332-b033-353534356264/Logo-New-Vitbiomed-P.png)
+
+[Витбиомед](http://vitbiomed.ru/), Moscow
+
+Development of systems and business applications
+
+**Fullstack JavaScript/PHP(Laravel) Developer**
+
+---
+
+_December 2016 — september 2017_
+
+![Be on TOP](https://www.beontop.ae/assets/images/logo.svg)
+
+[Be on TOP](https://www.beontop.ae/) / [Darvin Studio](https://www.darvin-studio.ru/), Moscow
+
+Development of systems and business applications
+
+**Fullstack JavaScript/PHP(symfony) Backend Developer**
 
 ---
 
