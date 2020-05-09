@@ -58,7 +58,7 @@ _December 2016 — september 2017_
 
 Website development
 
-**Fullstack JavaScript/PHP(symfony) Backend Developer**
+**Fullstack JavaScript/PHP(symfony) Developer**
 
 ---
 
