@@ -4,8 +4,13 @@
 
 ### Experience
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_September 2019 — currently_
+
+[Minter](https://www.minter.network/), Moscow
+
+Own blockchain on the Tendermint engine
+
+**Golang Backend/Blockchain Developer**
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
