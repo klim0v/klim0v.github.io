@@ -1,4 +1,6 @@
-## [Portfolio]((/pdf/sample_presentation.pdf))
+## Portfolio 
+
+[download]((/pdf/sample_presentation.pdf))
 
 ---
 
@@ -72,11 +74,9 @@ Website development
 
 ### Education / Training
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- 2020, [The Process Communication Model](https://www.processcommunication.com/)
+- 2017, [Vladimir State University](https://www.vlsu.ru/), [Applied Mathematics and Computer Science, Applied Mathematics and Computer Science](http://fpmf.vlsu.ru/)
+- 2013, school No. 36, class with a physical and mathematical bias
 
 ---
 
