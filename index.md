@@ -1,4 +1,4 @@
-## Portfolio
+## [Portfolio]((/pdf/sample_presentation.pdf))
 
 ---
 
@@ -6,15 +6,13 @@
 
 _September 2019 — currently_
 
+![Minter](https://www.minter.network/img/minter-logo.svg)
+
 [Minter](https://www.minter.network/), Moscow
 
 Own blockchain on the Tendermint engine
 
 **Golang Backend/Blockchain Developer**
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
