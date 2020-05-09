@@ -30,7 +30,7 @@ CPA network for working with Nutra vertical all over the world
 
 _July 2018 — november 2018_
 
-![Wormsoft](https://wormsoft.ru/_nuxt/img/e4eacfa.svg)
+![Wormsoft](https://wadline.ru/assets/cache/images/uploads/Wormsoft/161x161-1571323729.734.png)
 
 [Wormsoft](https://wormsoft.ru/), Moscow
 
@@ -42,11 +42,9 @@ Development of systems and business applications
 
 _October 2017 — june 2018_
 
-![Витбиомед](https://static.tildacdn.com/tild3064-3538-4332-b033-353534356264/Logo-New-Vitbiomed-P.png)
+![Витбиомед](https://static.tildacdn.com/tild3064-6133-4162-b338-333330353263/Logo-New-Vitbiomed-P.png)
 
 [Витбиомед](http://vitbiomed.ru/), Moscow
-
-Development of systems and business applications
 
 **Fullstack JavaScript/PHP(Laravel) Developer**
 
@@ -56,9 +54,9 @@ _December 2016 — september 2017_
 
 ![Be on TOP](https://www.beontop.ae/assets/images/logo.svg)
 
-[Be on TOP](https://www.beontop.ae/) / [Darvin Studio](https://www.darvin-studio.ru/), Moscow
+[Be on TOP](https://www.beontop.ae/) / [Darvin Studio](https://www.darvin-studio.ru/), Vladimir
 
-Development of systems and business applications
+Website development
 
 **Fullstack JavaScript/PHP(symfony) Backend Developer**
 
