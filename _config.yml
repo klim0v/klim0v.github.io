@@ -5,19 +5,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   2 years of development in PHP and the same in the Golang. Professional in writing the server side. More than six months in the development of the blockchain. I write articles, speak at conferences, I like to share experience with others.
   <br><br>
-  <ul>
-    <li><a href="https://t.me/klim0v">Telegram</a></li>
-    <li><a href="https://github.com/klim0v">GitHub</a></li>
-    <li><a href="https://habr.com/en/users/klim0v/">Habr</a></li>
-    <li><a href="https://career.habr.com/klim0v">My circle</a></li>
-    <li><a href="https://vk.com/klim0v">Vkontakte</a></li>
-    <li><a href="https://www.facebook.com/klim0vsergey">Facebook</a></li>
-    <li><a href="https://www.linkedin.com/in/klim0v/">LinkedIn</a></li>
-    <li><a href="https://www.instagram.com/klim0vsergey/">Instagram</a></li>
-    <li><a href="https://twitter.com/klim0vSergey">Twitter</a></li>
-    <li><a href="mailto:klim0v-sergey@yandex.ru">klim0v-sergey@yandex.E-mail</a></li>
-    <li><a href="tel:+79647700203">WhatsApp</a></li>
-  </ul>
-show_downloads: true
+  <a href="https://t.me/klim0v">Contact Me on Telegram</a><br>
+  <a href="https://wa.me/79647700203">Contact Me on WhatsApp</a><br>
+  <a href="mailto:klim0v-sergey@yandex.ru">Contact Me on E-mail</a><br>
+  <a href="https://habr.com/en/users/klim0v/">View My Habr Profile</a><br>
+  <a href="https://career.habr.com/klim0v">My View My Circle Profile</a><br>
+  <a href="https://vk.com/klim0v">View My VK Profile</a><br>
+  <a href="https://www.facebook.com/klim0vsergey">View My Facebook Profile</a><br>
+  <a href="https://www.linkedin.com/in/klim0v/">View My LinkedIn Profile</a><br>
+  <a href="https://www.instagram.com/klim0vsergey/">View My Instagram Profile</a><br>
+  <a href="https://twitter.com/klim0vSergey">View My Twitter Profile</a><br>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-165411420-1 # your Google Analytics tracking ID here
