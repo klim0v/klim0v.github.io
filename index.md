@@ -10,6 +10,8 @@ _September 2019 — currently_
 
 [Minter](https://www.minter.network/), Moscow
 
+[Github Profile](https://github.com/MinterTeam)
+
 Own blockchain on the Tendermint engine
 
 **Golang Backend/Blockchain Developer**
@@ -22,6 +24,8 @@ _November 2018 — september 2019_
 
 [Dr.Cash](https://dr.cash/), Moscow
 
+[Github Profile](https://github.com/introphin)
+
 CPA network for working with Nutra vertical all over the world
 
 **Golang Backend Developer**
@@ -33,6 +37,8 @@ _July 2018 — november 2018_
 ![Wormsoft](https://wadline.ru/assets/cache/images/uploads/Wormsoft/161x161-1571323729.734.png)
 
 [Wormsoft](https://wormsoft.ru/), Moscow
+
+[Github Profile](https://github.com/wormsoft)
 
 Development of systems and business applications
 
@@ -55,6 +61,8 @@ _December 2016 — september 2017_
 ![Be on TOP](https://www.beontop.ae/assets/images/logo.svg)
 
 [Be on TOP](https://www.beontop.ae/) / [Darvin Studio](https://www.darvin-studio.ru/), Vladimir
+
+[Github Profile](https://github.com/DarvinStudio)
 
 Website development
 
