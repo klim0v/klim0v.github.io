@@ -1,6 +1,4 @@
-## Portfolio 
-
-[download]((/pdf/sample_presentation.pdf))
+## Portfolio [pdf](/pdf/sample_presentation.pdf)
 
 ---
 
