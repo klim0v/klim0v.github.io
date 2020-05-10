@@ -84,7 +84,7 @@ Website development
 
 - [Telegram](https://t.me/klim0v)
 - [WhatsApp](https://wa.me/79647700203)
-- [E-mail](mailto:klim0v-sergey@yandex.ru")
+- [E-mail](mailto:klim0v-sergey@yandex.ru)
 - [Habr](https://habr.com/en/users/klim0v/)
 - [My Circle](https://career.habr.com/klim0v)
 - [VK](https://vk.com/klim0v)
