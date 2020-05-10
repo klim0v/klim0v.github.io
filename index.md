@@ -4,6 +4,12 @@ _[Download CV](/pdf/sample_presentation.pdf)_
 
 ---
 
+### Skills
+
+Golang, PHP, Docker, Blockchain, PostgreSQL, Protobuf, gRPC, ClickHouse, Redis, Nats, OpenAPI, Git, Clean Architecture, SOLID
+
+---
+
 ### Experience
 
 _September 2019 — currently_
@@ -80,12 +86,20 @@ Website development
 
 ---
 
+### Articles
+
+- 2020, [Second Article](https://habr.com/ru/post/496574/)
+- 2020, [First Article](https://habr.com/ru/post/496098/)
+
+_[More on Habr](https://habr.com/ru/users/klim0v/posts/)_
+
+---
+
 ### Contact
 
 - [Telegram](https://t.me/klim0v)
 - [WhatsApp](https://wa.me/79647700203)
 - [E-mail](mailto:klim0v-sergey@yandex.ru)
-- [Habr](https://habr.com/en/users/klim0v/)
 - [My Circle](https://career.habr.com/klim0v)
 - [VK](https://vk.com/klim0v)
 - [Facebook](https://www.facebook.com/klim0vsergey)
