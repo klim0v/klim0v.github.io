@@ -28,7 +28,7 @@ Own blockchain on the Tendermint engine
 
 _November 2018 — september 2019_
 
-![Dr.Cash](images/wormsoft-logo.png)
+![Dr.Cash](images/dr-cash-logo.png)
 
 [Dr.Cash](https://dr.cash/), Moscow
 
@@ -40,7 +40,7 @@ CPA network for working with Nutra vertical all over the world
 
 _July 2018 — november 2018_
 
-![Wormsoft](https://wadline.ru/assets/cache/images/uploads/Wormsoft/161x161-1571323729.734.png)
+![Wormsoft](images/wormsoft-logo.png)
 
 [Wormsoft](https://wormsoft.ru/), Moscow
 
