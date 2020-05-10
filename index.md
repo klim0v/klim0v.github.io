@@ -4,9 +4,9 @@ _[Download CV](/pdf/sample_presentation.pdf)_
 
 ---
 
-### Skills
+### Skill
 
-Golang, PHP, Docker, Blockchain, PostgreSQL, Protobuf, gRPC, ClickHouse, Redis, Nats, OpenAPI, Git, Clean Architecture, SOLID
+Golang, PHP, PostgreSQL, Protobuf, gRPC, ClickHouse, Redis, Nats, Docker, Blockchain, OpenAPI, Git, Clean Architecture, SOLID
 
 ---
 
@@ -14,7 +14,7 @@ Golang, PHP, Docker, Blockchain, PostgreSQL, Protobuf, gRPC, ClickHouse, Redis, 
 
 _September 2019 — currently_
 
-![Minter](https://www.minter.network/img/minter-logo.svg)
+![Minter](images/minter-logo.png)
 
 [Minter](https://www.minter.network/), Moscow
 
@@ -28,11 +28,9 @@ Own blockchain on the Tendermint engine
 
 _November 2018 — september 2019_
 
-![Dr.Cash](https://dr.cash/assets/images/logos/logo_black.svg)
+![Dr.Cash](images/wormsoft-logo.png)
 
 [Dr.Cash](https://dr.cash/), Moscow
-
-[Github Profile](https://github.com/introphin)
 
 CPA network for working with Nutra vertical all over the world
 
@@ -46,8 +44,6 @@ _July 2018 — november 2018_
 
 [Wormsoft](https://wormsoft.ru/), Moscow
 
-[Github Profile](https://github.com/wormsoft)
-
 Development of systems and business applications
 
 **Golang/PHP(yii2) Backend Developer**
@@ -56,7 +52,7 @@ Development of systems and business applications
 
 _October 2017 — june 2018_
 
-![Витбиомед](https://static.tildacdn.com/tild3064-6133-4162-b338-333330353263/Logo-New-Vitbiomed-P.png)
+![Витбиомед](images/vitbiomed-logo.png)
 
 [Витбиомед](http://vitbiomed.ru/), Moscow
 
@@ -66,7 +62,7 @@ _October 2017 — june 2018_
 
 _December 2016 — september 2017_
 
-![Darvin Studio](https://lh3.googleusercontent.com/proxy/vH5UkUevOxVLRh_wxAL3DZDtoNxI5F8wvV946L42zwEAxmv6u7EbX5WhOhRiBfz9zcJKl2t9mjFuxyYZIjDR6FOcevK5xobQfII0IvrYpzKe)
+![Darvin Studio](images/darvin-studio-logo.png)
 
 [Darvin Studio](https://www.darvin-studio.ru/) / [Be on TOP](https://www.beontop.ae/), Vladimir
 
