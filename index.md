@@ -1,5 +1,6 @@
-## Portfolio 
-[Download CV](/pdf/sample_presentation.pdf)
+## Portfolio
+
+_[Download CV](/pdf/sample_presentation.pdf)_
 
 ---
 
@@ -59,9 +60,9 @@ _October 2017 — june 2018_
 
 _December 2016 — september 2017_
 
-![Be on TOP](https://www.beontop.ae/assets/images/logo.svg)
+![Darvin Studio](https://lh3.googleusercontent.com/proxy/vH5UkUevOxVLRh_wxAL3DZDtoNxI5F8wvV946L42zwEAxmv6u7EbX5WhOhRiBfz9zcJKl2t9mjFuxyYZIjDR6FOcevK5xobQfII0IvrYpzKe)
 
-[Be on TOP](https://www.beontop.ae/) / [Darvin Studio](https://www.darvin-studio.ru/), Vladimir
+[Darvin Studio](https://www.darvin-studio.ru/) / [Be on TOP](https://www.beontop.ae/), Vladimir
 
 [Github Profile](https://github.com/DarvinStudio)
 
