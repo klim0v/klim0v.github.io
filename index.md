@@ -1,4 +1,5 @@
-## Portfolio [pdf](/pdf/sample_presentation.pdf)
+## Portfolio 
+[Download CV](/pdf/sample_presentation.pdf)
 
 ---
 
