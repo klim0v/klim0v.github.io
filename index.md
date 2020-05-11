@@ -4,7 +4,7 @@ _[Download CV](/pdf/sample_presentation.pdf)_
 
 ---
 
-### Skill
+### Skills
 
 Golang, PHP, PostgreSQL, Protobuf, gRPC, ClickHouse, Redis, Nats, Docker, Blockchain, OpenAPI, Git, Clean Architecture, SOLID
 
@@ -52,9 +52,9 @@ Development of systems and business applications
 
 _October 2017 — june 2018_
 
-![Витбиомед](images/vitbiomed-logo.png)
+![Vitbiomed](images/vitbiomed-logo.png)
 
-[Витбиомед](http://vitbiomed.ru/), Moscow
+[Vitbiomed](http://vitbiomed.ru/), Moscow
 
 **Fullstack JavaScript/PHP(Laravel) Developer**
 
@@ -91,7 +91,7 @@ _[More on Habr](https://habr.com/ru/users/klim0v/posts/)_
 
 ---
 
-### Contact
+### Contacts
 
 - [Telegram](https://t.me/klim0v)
 - [WhatsApp](https://wa.me/79647700203)
