@@ -91,6 +91,12 @@ _[More on Habr](https://habr.com/ru/users/klim0v/posts/)_
 
 ---
 
+### Conferences
+
+- 2019, [Minter Demo Day](https://youtu.be/7bZREmkcpiY)
+
+---
+
 ### Contacts
 
 - [Telegram](https://t.me/klim0v)
