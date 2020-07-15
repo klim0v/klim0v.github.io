@@ -4,12 +4,6 @@ _[Download CV](/pdf/sample_presentation.pdf)_
 
 ---
 
-### Skills
-
-Golang, PHP, PostgreSQL, Protobuf, gRPC, ClickHouse, Redis, Nats, Docker, Blockchain, OpenAPI, Git, Clean Architecture, SOLID
-
----
-
 ### Experience
 
 _September 2019 — currently_
@@ -24,6 +18,8 @@ Own blockchain on the Tendermint engine
 
 **Golang Backend/Blockchain Developer**
 
+**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tendermint), [iavl](https://github.com/cosmos/iavl), blockchain, gRPC, [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), NATS, [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk), Github, Kubernetes, Helm, Jira._
+
 ---
 
 _November 2018 — september 2019_
@@ -36,6 +32,8 @@ CPA network for working with Nutra vertical all over the world
 
 **Golang Backend Developer**
 
+**_Skills_**: _GO, gRPC, NATS, [swagger-go](https://github.com/go-swagger/go-swagger), Microservices, Clean Architecture, ClickHouse, PostgresQL, Kubernetes, Jira._
+
 ---
 
 _July 2018 — november 2018_
@@ -46,7 +44,9 @@ _July 2018 — november 2018_
 
 Development of systems and business applications
 
-**Golang/PHP(yii2) Backend Developer**
+**Golang/PHP Backend Developer**
+
+**_Skills_**: _PHP, GO, Yii2, REST API, Docker, docker-compose, swagger-ui, MySQL, gitlab, Design patterns._
 
 ---
 
@@ -56,7 +56,9 @@ _October 2017 — june 2018_
 
 [Vitbiomed](http://vitbiomed.ru/), Moscow
 
-**Fullstack JavaScript/PHP(Laravel) Developer**
+**Fullstack  Developer**
+
+**_Skills_**: _PHP, Laravel, MySQL, Testing, JQuery, Docker, docker-compose, git, Design patterns._
 
 ---
 
@@ -70,7 +72,9 @@ _December 2016 — september 2017_
 
 Website development
 
-**Fullstack JavaScript/PHP(symfony) Developer**
+**Fullstack JavaScript/PHP Developer**
+
+**_Skills_**: _PHP, Symfony, DDD, MySQL, JQuery, git._
 
 ---
 
@@ -78,14 +82,14 @@ Website development
 
 - 2020, [The Process Communication Model](https://www.processcommunication.com/)
 - 2017, [Vladimir State University](https://www.vlsu.ru/), [Applied Mathematics and Computer Science, Applied Mathematics and Computer Science](http://fpmf.vlsu.ru/)
-- 2013, school No. 36, class with a physical and mathematical bias
+- 2013, Vladimir, school No. 36, class with a physical and mathematical bias
 
 ---
 
 ### Articles
 
-- 2020, [Second Article](https://habr.com/ru/post/496574/)
-- 2020, [First Article](https://habr.com/ru/post/496098/)
+- 2020, [Protobuf, gRPC, REST API, WebSockets, OpenAPI](https://habr.com/ru/post/496574/)
+- 2020, [Tools for implementing an Golang API server with auto-generated code and documentation](https://habr.com/ru/post/496098/)
 
 _[More on Habr](https://habr.com/ru/users/klim0v/posts/)_
 
