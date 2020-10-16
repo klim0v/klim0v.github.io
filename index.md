@@ -100,6 +100,7 @@ Website development
 
 ### Conferences
 
+- 2020, [Golang Live (Онтико)](https://golangconf.ru/2020/abstracts/6761)
 - 2019, [Minter Demo Day](https://youtu.be/7bZREmkcpiY)
 
 ---
