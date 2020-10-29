@@ -86,15 +86,10 @@ Website development
 
 ---
 
-### Articles
+### Blogs
 
 - [Medium](https://medium.com/@klim0v)
-    - 2020, [Tools for implementing a Golang API server with auto-generated code and documentation. grpc-gateway — protobuf, gRPC, API, Web-Socket.](https://medium.com/@klim0v/tools-for-implementing-a-golang-api-server-with-auto-generated-code-and-documentation-694262e3866c?source=friends_link&sk=0c8874b7f2e970a719ab7920b830ed69)
-    - 2020, [Инструменты для реализации API-сервера на Golang с автогенерацией кода и документации. grpc-gateway — protobuf, gRPC, API, Web-Socket.](https://medium.com/@klim0v/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-api-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%BD%D0%B0-golang-%D1%81-%D0%B0%D0%B2%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B5%D0%B9-%D0%BA%D0%BE%D0%B4%D0%B0-%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8-491a4c88ab38?source=friends_link&sk=26414669b0c34c95c9c11e2541a36ffa)
 - [Habr](https://habr.com/ru/users/klim0v/)
-    - 2020, [Полный набор gRPC, RESTful JSON API, WS и Swagger из одного proto файла. От введения до нюансов и тонкостей grpc-gateway](https://habr.com/ru/post/496574/)
-    - 2020, [Способы реализации API-сервера на Golang с автогенерацией кода и документации](https://habr.com/ru/post/496098/)
-
 
 ---
 
@@ -108,7 +103,6 @@ Website development
 ### Contacts
 
 - [Telegram](https://t.me/klim0v)
-- [WhatsApp](https://wa.me/79647700203)
 - [E-mail](mailto:klim0v-sergey@yandex.ru)
 - [My Circle](https://career.habr.com/klim0v)
 - [VK](https://vk.com/klim0v)
