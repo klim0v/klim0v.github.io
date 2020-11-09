@@ -18,7 +18,7 @@ Own blockchain on the Tendermint engine
 
 **Golang Backend/Blockchain Developer**
 
-**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tendermint), [iavl](https://github.com/cosmos/iavl), blockchain, gRPC, [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway), NATS, [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk), Github, Kubernetes, Helm, Jira._
+**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/pull/134), [iavl](https://github.com/cosmos/iavl/pull/324), blockchain, gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), NATS, [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk), Github, Kubernetes, Helm, Jira._
 
 ---
 
