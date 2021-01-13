@@ -1,6 +1,6 @@
 ## Portfolio
 
-_[Download CV](/pdf/sample_presentation.pdf)_
+[comment]: <> (_[Download CV]&#40;/pdf/sample_presentation.pdf&#41;_)
 
 ---
 
@@ -16,9 +16,9 @@ _September 2019 — currently_
 
 Own blockchain on the Tendermint engine
 
-**Golang Backend/Blockchain Developer**
+**Core Blockchain Developer**
 
-**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/pull/134), [iavl](https://github.com/cosmos/iavl/pull/324), blockchain, gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), NATS, [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk), Github, Kubernetes, Helm, Jira._
+**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), blockchain, gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk), Kubernetes, NATS, Helm, Jira._
 
 ---
 
