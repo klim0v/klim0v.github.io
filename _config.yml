@@ -3,6 +3,6 @@ logo: "/images/logo.jpeg?raw=true"
 description: >
   Senior Golang Developer (Blockchain)
   <br><br>
-  I have been specializing in API design and service-oriented architecture for over 3 years. In recent years, I have been developing blockchain platforms. I also teach a course on Golang, speak at professional conferences, publish technical articles to support the development of our community, and frequently contribute to open-source GitHub projects (https://github.com/klim0v).
+  I have been specializing in API design and service-oriented architecture for over 3 years. In recent years, I have been developing blockchain platforms. I also teach a course on Golang, speak at professional conferences, publish technical articles to support the development of our community, and frequently contribute to open-source GitHub projects.
 theme: jekyll-theme-minimal
 google_analytics: UA-165411420-1 # your Google Analytics tracking ID here
