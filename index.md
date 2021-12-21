@@ -8,9 +8,9 @@
 
 _September 2019 — currently_
 
-![Minter](images/minter-logo.png)
+![Minter](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/minter-logo.png)
 
-[Minter](https://www.minter.network/), Moscow
+[Minter](https://www.minter.network/), London, UK
 
 [Github Profile](https://github.com/MinterTeam)
 
@@ -20,11 +20,16 @@ Own blockchain on the Tendermint engine
 
 **_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), [minter-blockchain-core](https://github.com/MinterTeam/minter-go-node), gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk/v2), Kubernetes, Jira._
 
+- Development of [SDK](https://github.com/MinterTeam/minter-go-sdk) for Minter blockchain 
+- Development of the [Core](https://github.com/MinterTeam/minter-go-node) Minter blockchain 
+- Bug fixes in the [tendermint](https://github.com/tendermint/tm-db/pull/134) and (cosmos](https://github.com/cosmos/iavl/pull/324) engine
+- Overview of blockchain innovations at conferences https://www.youtube.com/watch?v=hUx6rZLD_ok https://www.youtube.com/watch?v=7bZREmkcpiY
+
 ---
 
 _November 2018 — september 2019_
 
-![Dr.Cash](images/dr-cash-logo.png)
+![Dr.Cash](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/dr-cash-logo.png)
 
 [Dr.Cash](https://dr.cash/), Moscow
 
@@ -32,13 +37,13 @@ CPA network for working with Nutra vertical all over the world
 
 **Golang Backend Developer**
 
-**_Skills_**: _GO, gRPC, NATS, [swagger-go](https://github.com/go-swagger/go-swagger), Microservices, Clean Architecture, ClickHouse, PostgresQL, Kubernetes, Jira._
+**_Skills_**: _GO, gRPC, protobuf, NATS, [swagger-go](https://github.com/go-swagger/go-swagger), jwt, OpenAPI, multithreading, gin, postman, sentry, redis, apm-elastic, Microservices, Clean Architecture, ClickHouse, PostgresQL, Kubernetes, Helm, Jira._
 
 ---
 
 _July 2018 — november 2018_
 
-![Wormsoft](images/wormsoft-logo.png)
+![Wormsoft](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/wormsoft-logo.png)
 
 [Wormsoft](https://wormsoft.ru/), Moscow
 
@@ -48,11 +53,25 @@ Development of systems and business applications
 
 **_Skills_**: _PHP, GO, Yii2, REST API, Docker, docker-compose, swagger-ui, MySQL, gitlab, Design patterns._
 
+- Development of modules for Yii2 for information processing
+- Development of services on GoLang
+- Database structure design
+- Designing API Services
+- Integration with third-party services
+- Gitlab webhook application deployment service
+- Buffalo, revel golang's frameworks
+- Development was carried out for: 
+  - https://vebeng.ru/en/
+  - https://www.deworkacy.ru/
+  - http://novacoin.org/ 
+  - other companies...
+
+
 ---
 
 _October 2017 — june 2018_
 
-![Vitbiomed](images/vitbiomed-logo.png)
+![Vitbiomed](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/vitbiomed-logo.png)
 
 [Vitbiomed](http://vitbiomed.ru/), Moscow
 
@@ -60,11 +79,14 @@ _October 2017 — june 2018_
 
 **_Skills_**: _PHP, Laravel, MySQL, Testing, JQuery, Docker, docker-compose, git, Design patterns._
 
+- Migration of the main site from Bitrix to Laravel
+
+
 ---
 
 _December 2016 — september 2017_
 
-![Darvin Studio](images/darvin-studio-logo.png)
+![Darvin Studio](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/darvin-studio-logo.png)
 
 [Darvin Studio](https://www.darvin-studio.ru/) / [Be on TOP](https://www.beontop.ae/), Vladimir
 
@@ -75,6 +97,8 @@ Website development
 **Fullstack JavaScript/PHP Developer**
 
 **_Skills_**: _PHP, Symfony, DDD, MySQL, JQuery, git._
+
+- The creation and development of blogs and online stores on the self-written [CMS](https://github.com/DarvinStudio) on PHP Symfony 
 
 ---
 
