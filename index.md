@@ -129,10 +129,10 @@ Website development
 
 - [Telegram](https://t.me/klim0v)
 - [E-mail](mailto:klim0v-sergey@yandex.ru)
+- [LinkedIn](https://www.linkedin.com/in/klim0v/)
 <!-- - [Habr Career](https://career.habr.com/klim0v) -->
 <!-- - [VK](https://vk.com/klim0v) -->
 <!-- - [Facebook](https://www.facebook.com/klim0vsergey) -->
-- [LinkedIn](https://www.linkedin.com/in/klim0v/)
 <!-- - [Instagram](https://www.instagram.com/klim0vsergey/) -->
 <!-- - [Twitter](https://twitter.com/klim0vSergey) -->
 
