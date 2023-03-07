@@ -6,7 +6,21 @@
 
 ### Experience
 
-_September 2019 — currently_
+_November 2022 — currently_
+
+![ANKR](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/ankr-logo.png)
+
+[ANKR](https://www.ankr.com/), Remote, United States
+
+Decentralized Infrastructure to Build and Earn in Web3
+
+**Blockchain Engineer (Backend)**
+
+**_Skills_**: _Go, Postgres, Kafka, Redis, Clickhouse, Cloudflare Workers_
+
+---
+
+_September 2019 — november 2022_
 
 ![Minter](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/minter-logo.png)
 
@@ -16,7 +30,7 @@ _September 2019 — currently_
 
 Own blockchain on the Tendermint engine
 
-**Lead Golang Blockchain Core Developer**
+**Golang Blockchain Developer**
 
 **_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), [minter-blockchain-core](https://github.com/MinterTeam/minter-go-node), gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk/v2), Kubernetes, Jira._
 
