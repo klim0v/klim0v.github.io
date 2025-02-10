@@ -142,12 +142,8 @@ Website development
 ### Contacts
 
 - [Telegram](https://t.me/klmff)
-- [E-mail](mailto:klim0v-sergey@yandex.ru)
+- [E-mail](mailto:crazyuser704@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/klim0v/)
-<!-- - [Habr Career](https://career.habr.com/klim0v) -->
-<!-- - [VK](https://vk.com/klim0v) -->
-<!-- - [Facebook](https://www.facebook.com/klim0vsergey) -->
-<!-- - [Instagram](https://www.instagram.com/klim0vsergey/) -->
 - [Twitter](https://twitter.com/klim0vSergey)
 
 ---
