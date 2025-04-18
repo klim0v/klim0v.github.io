@@ -6,7 +6,28 @@
 
 ### Experience
 
-_November 2022 — currently_
+_December 2024 — currently_
+
+<img alt="NuConstruct" src="https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/nuconstruct.svg" width="125" height="36">
+
+[NuConstruct](https://nuconstruct.xyz/), Remote, UK
+
+Leading MEV team on Ethereum, operating since 2020
+
+**Blockchain Engineer (Ethereum)**
+
+**_Skills_**: _Go, [geth](https://github.com/ethereum/go-ethereum), flashbots, MEV, [TEE](https://collective.flashbots.net/t/searching-in-tdx/3902)_
+
+We are building TOOL (Trustless Orderflow Operations Layer), which offers revolutionary features for Ethereum transaction processing:
+* Division of 12-second Ethereum slots into 1-second sub-slots
+* Feedback on tx inclusion status and intermediate block states
+* Dynamic transaction addition capability for subsequent sub-slots
+* Execution guarantees when block proposers is in the network
+* End-to-end order flow privacy and fair blockspace auction
+
+---
+
+_November 2022 — December 2024_
 
 ![ANKR](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/ankr-logo.png)
 
