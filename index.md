@@ -6,13 +6,13 @@
 
 ### Experience
 
-_December 2024 — currently_
+_December 2024 — Currently_
 
 <img alt="NuConstruct" src="https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/nuconstruct.svg" width="125" height="36">
 
 [NuConstruct](https://nuconstruct.xyz/), Remote, UK
 
-Leading MEV team on Ethereum, operating since 2020
+NuConstruct is leading MEV team on Ethereum, operating since 2020
 
 **Blockchain Engineer (Ethereum)**
 
@@ -33,7 +33,7 @@ _November 2022 — December 2024_
 
 [ANKR](https://www.ankr.com/), Remote, United States
 
-Decentralized Infrastructure to Build and Earn in Web3
+Ankr is an all-in-one Web3 development hub that provides a full suite of tools for any organization to build new decentralized apps and power them with high-performance connections to 45+ blockchains.
 
 **Blockchain Engineer (Backend)**
 
@@ -41,7 +41,7 @@ Decentralized Infrastructure to Build and Earn in Web3
 
 ---
 
-_September 2019 — november 2022_
+_September 2019 — November 2022_
 
 ![Minter](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/minter-logo.png)
 
@@ -62,7 +62,7 @@ Own blockchain on the Tendermint engine
 
 ---
 
-_November 2018 — september 2019_
+_November 2018 — September 2019_
 
 ![Dr.Cash](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/dr-cash-logo.png)
 
@@ -76,7 +76,7 @@ CPA network for working with Nutra vertical all over the world
 
 ---
 
-_July 2018 — november 2018_
+_July 2018 — November 2018_
 
 ![Wormsoft](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/wormsoft-logo.png)
 
@@ -95,16 +95,10 @@ Development of systems and business applications
 - Integration with third-party services
 - Gitlab webhook application deployment service
 - Buffalo, revel golang's frameworks
-- Development was carried out for: 
-  - https://vebeng.ru/en/
-  - https://www.deworkacy.ru/
-  - http://novacoin.org/ 
-  - other companies...
-
 
 ---
 
-_October 2017 — june 2018_
+_October 2017 — June 2018_
 
 ![Vitbiomed](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/vitbiomed-logo.png)
 
@@ -119,7 +113,7 @@ _October 2017 — june 2018_
 
 ---
 
-_December 2016 — september 2017_
+_December 2016 — September 2017_
 
 ![Darvin Studio](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/darvin-studio-logo.png)
 
