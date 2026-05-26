@@ -1,8 +1,32 @@
 title: Sergei Klimov
 logo: "/images/logo.jpeg?raw=true"
 description: >
-  Golang Blockchain Engineer
+  Senior / Lead Go Blockchain Engineer
   <br><br>
-  I have been specializing in API design and service-oriented architecture for over 6 years. Since 2019, I have been developing blockchain platforms. Golang evangelist. I also teach course, speak at professional conferences, publish articles, and contribute to open-source projects.
+  Lead Blockchain Engineer at NuConstruct on TOOL Node — a go-ethereum fork enabling 1-second pre-confirmations on Ethereum. Author of EVAA's official Go SDK on TON. Upstream contributor to MEV-Boost, Cosmos IAVL and Tendermint tm-db. Former lead developer of the Minter L1.
+
+url: https://klim0v.github.io
+lang: en-US
+
+author:
+  name: Sergei Klimov
+  email: crazyuser704@gmail.com
+  twitter: 0xGoDev
+
+twitter:
+  username: 0xGoDev
+  card: summary
+
+social:
+  name: Sergei Klimov
+  links:
+    - https://github.com/klim0v
+    - https://www.linkedin.com/in/klim0v/
+    - https://x.com/0xGoDev
+
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+
 google_analytics: UA-165411420-1 # your Google Analytics tracking ID here
