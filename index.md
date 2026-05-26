@@ -82,7 +82,7 @@ Layer-1 DeFi blockchain on the Tendermint engine — DPoS, in-core AMM with orde
 
 - **Lead developer of [minter-go-node](https://github.com/MinterTeam/minter-go-node)** — owned Tendermint integration, IAVL+ state tree, transaction execution and Minter 2's in-core AMM with Order Book.
 - **Owned [node-grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway)** — single Protobuf source compiled into gRPC + REST + WebSocket + Swagger surfaces — and the official [minter-go-sdk (v2)](https://github.com/MinterTeam/minter-go-sdk).
-- **Upstream fixes shipped with `@klim0v` attribution**:
+- **Contributions to upstream dependencies**:
   - [cosmos/iavl #324](https://github.com/cosmos/iavl/pull/324) — orphan-node cleanup and new `DeleteVersionsRange` API (released in [v0.14.3](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md)).
   - [tendermint/tm-db #134](https://github.com/tendermint/tm-db/pull/134) — bounded GoLevelDB iterator, measurable IAVL-pruning speedup (released in [v0.6.3](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md)).
   - [btcsuite/btcutil #161](https://github.com/btcsuite/btcutil/pull/161) — BIP-32 leading-zero `ser256(p)` derivation fix.
