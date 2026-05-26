@@ -97,7 +97,7 @@ Layer-1 DeFi blockchain on the Tendermint engine — DPoS, in-core AMM with orde
 | Nov 2018 – Sep 2019 | [Dr.Cash](https://dr.cash/), Moscow | Golang Backend Developer | Go, gRPC, NATS, ClickHouse, PostgreSQL, Kubernetes / Helm |
 | Jul 2018 – Nov 2018 | [Wormsoft](https://wormsoft.ru/), Moscow | Golang / PHP Backend Developer | Go (Buffalo / Revel), PHP (Yii2), MySQL, Docker |
 | Oct 2017 – Jun 2018 | [Vitbiomed](http://vitbiomed.ru/), Moscow | Fullstack Developer | PHP (Laravel), MySQL, jQuery, Docker |
-| Dec 2016 – Sep 2017 | [Darvin Studio](https://www.darvin-studio.ru/) / [Be on TOP](https://www.beontop.ae/), Vladimir | Fullstack JS / PHP Developer | PHP (Symfony, [in-house CMS](https://github.com/DarvinStudio)), MySQL, jQuery |
+| Dec 2016 – Sep 2017 | [Be on TOP](https://www.beontop.ae/), Vladimir | Fullstack JS / PHP Developer | PHP (Symfony, [in-house CMS](https://github.com/DarvinStudio)), MySQL, jQuery |
 
 ---
 
