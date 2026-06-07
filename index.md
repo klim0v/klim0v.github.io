@@ -119,7 +119,7 @@ Layer-1 DeFi blockchain on the Tendermint engine — DPoS, in-core AMM with orde
 ### Blogs
 
 - [Medium](https://medium.com/@klim0v)
-- [Habr](https://habr.com/ru/users/klim0v/) — featured: ["Полный набор gRPC, RESTful JSON API, WS и Swagger из одного proto файла"](https://habr.com/ru/articles/496574/) ([English version on Level Up Coding](https://levelup.gitconnected.com/tools-for-implementing-a-golang-api-server-with-auto-generated-code-and-documentation-694262e3866c))
+- [Habr](https://habr.com/ru/users/klim0v/)
 
 ---
 
