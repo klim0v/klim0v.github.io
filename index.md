@@ -119,7 +119,7 @@ Layer-1 DeFi blockchain on the Tendermint engine — DPoS, in-core AMM with orde
 ### Blogs
 
 - [Medium](https://medium.com/@klim0v)
-- [Habr](https://habr.com/ru/users/klim0v/)
+- [Habr](https://habr.com/ru/users/klim0v/articles/)
 
 ---
 
